@@ -1,0 +1,10 @@
+@import "variables";
+@import "grid";
+
+html, body {
+  background: $main-bg;
+  color: $main-color;
+  font-family: arial;
+  font-size: 14px;
+  margin: 0;
+}
