@@ -1,3 +1,3 @@
-# startup
+# Gulp-workflow
 
-Basically, it's just my startup that I use to make most of my projects.
+It's basically my startup that I used to work on.
